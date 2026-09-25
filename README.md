@@ -5,6 +5,8 @@ Premiere Pro panel that versions up sequences (`_PR001` → `_PR002`) and moves 
 **Install:** download [VersionUp-SomethingSomething.ccx](VersionUp-SomethingSomething.ccx) (click it, then the download button) and double-click it. Creative Cloud installs it.
 Open it in Premiere from **Window › UXP Plugins › Version Up · Something Something**.
 
-Already installed? Updates appear as a banner inside the panel — click **Update**.
+Already installed? Updates appear as a banner inside the panel when Premiere opens — click **Update**. You can also check any time from the **i** button.
+
+**What's new:** see the [changelog](CHANGELOG.md).
 
 Needs Premiere Pro 25.6 or later.
