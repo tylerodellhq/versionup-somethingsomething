@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/VersionUp-SomethingSomething.ccx",
-  "notes": "Test release: checks the update banner. No changes."
+  "notes": "Checks for updates once when Premiere opens."
 }
