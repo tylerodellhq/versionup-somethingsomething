@@ -1,5 +1,8 @@
 # Version Up — Something Something: what's new
 
+## 1.9.0 — 25 Sep 2026
+- **Undo button.** After you version up, an **Undo PR003** button appears at the bottom of the panel. One click removes the new version and moves the previous one back out of the Old bin. If you've already made changes in the new version, it asks before deleting them.
+
 ## 1.8.3 — 25 Sep 2026
 - **Check for updates** button in the **i** pop-up. It shows whether you're up to date, offers **Update now** if a new version is out, or says why it couldn't check.
 
