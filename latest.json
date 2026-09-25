@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/VersionUp-SomethingSomething.ccx",
-  "notes": "Update check via GitHub."
+  "notes": "Test release: checks the update banner. No changes."
 }
