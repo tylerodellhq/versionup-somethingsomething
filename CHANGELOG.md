@@ -1,5 +1,8 @@
 # Something Something HQ: what's new
 
+## 2.0.1 — 26 Sep 2026
+- Test update to check the in-panel update banner. Nothing else has changed.
+
 ## 2.0.0 — 25 Sep 2026
 Version Up is now **Something Something HQ**, with Clockify built in. Everything in Version Up works as before, and your name and settings carry over.
 
