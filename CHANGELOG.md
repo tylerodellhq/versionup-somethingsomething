@@ -1,5 +1,13 @@
 # Something Something HQ: what's new
 
+## 2.0.5 — 26 Sep 2026
+- **Exporting no longer stops the timer.** It keeps running until you press Stop, in the panel or in Clockify. Closing the project or quitting Premiere still stops it.
+- **Settings cog** in the top right, in place of the **i**. Everything is in one place: your name, **Open new version in timeline** (moved here from the bottom of the panel), your Clockify connection, and an **About** card with the version number, update check and what's new.
+- **Slimmer timer** at the top: time, client and version, and Start/Stop. The client picker only appears for a new job that needs one, and says when it's picked the client from the job code (e.g. "from BB").
+- **The sequence open in your timeline has a yellow outline**, so the "In timeline now" label is gone.
+- **A thumbs up when you version up.** The new version's row lights up blue with 👍 Done, shows the new PR number, then fades back. The bottom of the panel confirms what happened, with **Undo** next to it.
+- Refresh is now an icon, and the sequence count sits at the bottom of the panel.
+
 ## 2.0.4 — 26 Sep 2026
 - **No more stuck "Couldn't reach Clockify" error after sleep.** When your Mac wakes, the internet takes a few seconds to come back. The panel now waits quietly and checks Clockify again a few times, instead of showing a red error that stays on screen.
 - Any "can't reach Clockify" message now clears itself once the connection is back, and a project lookup that failed offline fixes itself without pressing Retry.

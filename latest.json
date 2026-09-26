@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "No more stuck 'Couldn't reach Clockify' errors after your Mac wakes from sleep."
+  "notes": "A tidier panel with a Settings cog, a slim timer, and a thumbs up when you version up. Exporting no longer stops the timer."
 }
