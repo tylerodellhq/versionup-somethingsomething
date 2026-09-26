@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Test update — nothing has changed."
+  "notes": "Timer stays in step with Clockify and stops reliably when you close a project."
 }

@@ -1,5 +1,12 @@
 # Something Something HQ: what's new
 
+## 2.0.2 — 26 Sep 2026
+- **Stays in step with Clockify.** When Premiere opens, and every 30 seconds after, the panel checks what's actually running in your Clockify account. A timer left running, or started in the browser, shows up in the panel so you can see it and stop it. Stop one in the browser and the panel clears.
+- **Closing a project stops the timer reliably.** Previously, if the stop request to Clockify didn't get through, the panel forgot about the timer while it carried on running in Clockify. Now it holds on until Clockify confirms, and keeps retrying. The timer ends at the moment you closed the project.
+- **Premiere quit while timing:** next time it opens, the timer is stopped at the moment Premiere was last open.
+- A timer that's running for something else (not the open project) is shown but never stopped automatically, only when you press Stop. If it's for the project you then open, it's treated as that project's timer.
+- Tidier timer strip: Start and Stop now look exactly like the **Version up** buttons, and the **i** button sits at the top right next to the logo.
+
 ## 2.0.1 — 26 Sep 2026
 - Test update to check the in-panel update banner. Nothing else has changed.
 
