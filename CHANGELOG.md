@@ -1,5 +1,9 @@
 # Something Something HQ: what's new
 
+## 2.0.7 — 27 Sep 2026
+- **Clockify** now has its own heading above the timer, matching **Version Up**.
+- **A thumbs up when your timer starts**, the same as when you version up, instead of a line of blue text. Versioning up no longer shows "Now timing PR…" either. The strip only shows text when something needs your attention.
+
 ## 2.0.6 — 26 Sep 2026
 - **Fixed: the settings and refresh icons showed as black blobs** in Premiere. All the panel's icons now display properly.
 - **New plugin icon:** the hand-drawn S from the Something Something logo, in Creative Cloud's plugin list and on the panel.

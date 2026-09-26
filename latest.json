@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Fixes the settings and refresh icons, and adds the new Something Something plugin icon."
+  "notes": "A Clockify heading, and a thumbs up when your timer starts."
 }
