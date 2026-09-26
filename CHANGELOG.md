@@ -1,5 +1,10 @@
 # Something Something HQ: what's new
 
+## 2.0.6 — 26 Sep 2026
+- **Fixed: the settings and refresh icons showed as black blobs** in Premiere. All the panel's icons now display properly.
+- **New plugin icon:** the hand-drawn S from the Something Something logo, in Creative Cloud's plugin list and on the panel.
+- Tidier About card in Settings.
+
 ## 2.0.5 — 26 Sep 2026
 - **Exporting no longer stops the timer.** It keeps running until you press Stop, in the panel or in Clockify. Closing the project or quitting Premiere still stops it.
 - **Settings cog** in the top right, in place of the **i**. Everything is in one place: your name, **Open new version in timeline** (moved here from the bottom of the panel), your Clockify connection, and an **About** card with the version number, update check and what's new.

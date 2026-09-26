@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "A tidier panel with a Settings cog, a slim timer, and a thumbs up when you version up. Exporting no longer stops the timer."
+  "notes": "Fixes the settings and refresh icons, and adds the new Something Something plugin icon."
 }
