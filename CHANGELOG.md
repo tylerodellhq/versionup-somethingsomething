@@ -1,4 +1,14 @@
-# Version Up — Something Something: what's new
+# Something Something HQ: what's new
+
+## 2.0.0 — 25 Sep 2026
+Version Up is now **Something Something HQ**, with Clockify built in. Everything in Version Up works as before, and your name and settings carry over.
+
+- **Timer strip** at the top of the panel: what you're timing, how long, and one Start/Stop button.
+- **Start** takes the Premiere project name and finds the Clockify project with that exact name. If there isn't one yet, it creates it under the client you choose, then starts the timer.
+- **Clients by job code.** The client list comes straight from Clockify. Once you've used a code with a client (BB014 → Beyond Boundaries), the next BB project picks that client for you. It only auto-picks when that code has only ever been used with that one client; otherwise you choose.
+- **Version up = new entry.** Each version up closes the current Clockify entry and starts a new one named after the version (PR002, PR003 …), so time on each round of amends is tracked separately. If the edit is already in Clockify and you weren't timing, versioning up starts the timer.
+- **Stops by itself** when an export finishes (from Premiere or Media Encoder), when you close or switch project, and if Premiere quits or crashes while timing (next time it opens, the timer is stopped at the moment Premiere was last open).
+- **Leaves Clockify alone otherwise.** It only creates projects and time entries and stops its own timer. It never renames or changes clients, projects or anyone else's entries. If a different timer is already running, it asks before stopping it.
 
 ## 1.9.0 — 25 Sep 2026
 - **Undo button.** After you version up, an **Undo PR003** button appears at the bottom of the panel. One click removes the new version and moves the previous one back out of the Old bin. If you've already made changes in the new version, it asks before deleting them.
