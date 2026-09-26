@@ -1,5 +1,11 @@
 # Something Something HQ: what's new
 
+## 2.0.4 — 26 Sep 2026
+- **No more stuck "Couldn't reach Clockify" error after sleep.** When your Mac wakes, the internet takes a few seconds to come back. The panel now waits quietly and checks Clockify again a few times, instead of showing a red error that stays on screen.
+- Any "can't reach Clockify" message now clears itself once the connection is back, and a project lookup that failed offline fixes itself without pressing Retry.
+- Closing a project while offline: the panel says the timer will stop once the connection is back, then stops it at the moment the project closed, not the moment the internet returned.
+- Opening Premiere while offline with a timer left running: once online, the timer is stopped at the moment Premiere was last open.
+
 ## 2.0.3 — 26 Sep 2026
 - **Fixed: the panel didn't see a timer already running in Clockify**, so pressing Start replaced it. The panel now always gets a fresh answer from Clockify instead of reusing an old one. Open a project whose timer is already running and the panel picks it up as that project's timer, with Stop ready.
 - Checks all of your Clockify workspaces for a running timer, not just the one the panel uses. A timer in another workspace is shown with its workspace name.
