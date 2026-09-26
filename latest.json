@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Timer stays in step with Clockify and stops reliably when you close a project."
+  "notes": "Fixes the panel not seeing a Clockify timer that's already running."
 }

@@ -1,5 +1,10 @@
 # Something Something HQ: what's new
 
+## 2.0.3 — 26 Sep 2026
+- **Fixed: the panel didn't see a timer already running in Clockify**, so pressing Start replaced it. The panel now always gets a fresh answer from Clockify instead of reusing an old one. Open a project whose timer is already running and the panel picks it up as that project's timer, with Stop ready.
+- Checks all of your Clockify workspaces for a running timer, not just the one the panel uses. A timer in another workspace is shown with its workspace name.
+- The ⚙ Clockify settings now show exactly what's running in Clockify, which helps if anything looks wrong.
+
 ## 2.0.2 — 26 Sep 2026
 - **Stays in step with Clockify.** When Premiere opens, and every 30 seconds after, the panel checks what's actually running in your Clockify account. A timer left running, or started in the browser, shows up in the panel so you can see it and stop it. Stop one in the browser and the panel clears.
 - **Closing a project stops the timer reliably.** Previously, if the stop request to Clockify didn't get through, the panel forgot about the timer while it carried on running in Clockify. Now it holds on until Clockify confirms, and keeps retrying. The timer ends at the moment you closed the project.
