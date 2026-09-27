@@ -27,8 +27,8 @@ Needs Premiere Pro 25.6 or later. Creative Cloud doesn't show the plugin's icon 
 
 | | Example |
 |---|---|
-| Project starts with the job code (the letters pick the client) | `BB014_Summer_Campaign` |
-| Sequences end with a version number | `BB014_AV-82_9x16_PR001` |
+| Project starts with the job code (the letters pick the client) | `EG001_Example` |
+| Sequences end with a version number | `EG001_Example_Sequence_PR001` |
 | Sequences sit loose in a bin with "Sequences" or "Seqs" in its name | `01_Sequences` |
 
 ## Updates
