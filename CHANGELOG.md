@@ -1,5 +1,8 @@
 # Something Something HQ: what's new
 
+## 2.1.1 — 27 Sep 2026
+- **Fixed:** the selected colour on the Brand tab is outlined in Ivory again. Every outline is the same thickness.
+
 ## 2.1.0 — 27 Sep 2026
 **New: the Brand tab.** HQ now has two tabs: **Job** (Clockify and Version Up) and **Brand**.
 
