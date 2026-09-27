@@ -1,5 +1,32 @@
 # Something Something HQ: what's new
 
+## 2.1.0 — 27 Sep 2026
+**New: the Brand tab.** HQ now has two tabs: **Job** (Clockify and Version Up) and **Brand**.
+
+- **Every Something Something graphic in one place:** all 928 scribbles, arrows, circles, lines, bars, frames, corners, bursts, symbols, letters, numbers and the logo.
+- **Pick a brand colour** (Carbon, Ivory, Magenta, Cyan, Buttercup) and everything shows in that colour. **Copy hex** copies the code, or use Premiere's eyedropper on the swatches.
+- **Search** for what you need: "arrow", "star", "heart", "tick", "£", "?", or a single letter or number like "A" or "7".
+- **★ Favourites:** tap the star on any asset to keep it handy.
+- **Import** puts the asset in your chosen colour into a **Brand assets** bin, and saves the PNG in a **Brand assets** folder next to your project, so it travels with the project on the Drive. If a sequence is open, it's also placed at the playhead on the first free video track above V1. **Double-click** an asset to import it straight away.
+- Assets import at 100%, so scribble thickness stays consistent, as the brand guidelines ask.
+- The logo only comes in Carbon or Ivory, per the guidelines.
+- Remembers your last tab, colour and category.
+- Search and **Copy hex** share one row, and the Copy hex button takes on the selected colour.
+- Every colour swatch has the same subtle outline, so Carbon shows up on Premiere's dark background.
+- A smaller logo and slimmer tabs leave more room for the panel.
+- A smaller download: the brand graphics are compressed better, with no change in quality.
+- New plugin icon: the Something Something wordmark in Ivory.
+
+**Job tab tweaks**
+- Fixed: **"PR003 by <name>"** on version rows wasn't being saved. New versions now record who made them, and the status line says so if Premiere refuses.
+- Versioning up while the panel is checking Clockify in the background no longer skips switching the timer to the new version.
+- If you stopped your timer in Clockify itself, versioning up won't start it again.
+- If your Clockify workspace doesn't let you create projects, HQ now says so, instead of blaming your API key.
+- A divider between Clockify and Version Up.
+- Sequences that aren't open are slimmer, so the one in your timeline stands out.
+
+When you update, Creative Cloud may ask you to allow two new permissions: saving files (for the Brand assets folder) and the clipboard (for Copy hex).
+
 ## 2.0.7 — 27 Sep 2026
 - **Clockify** now has its own heading above the timer, matching **Version Up**.
 - **A thumbs up when your timer starts**, the same as when you version up, instead of a line of blue text. Versioning up no longer shows "Now timing PR…" either. The strip only shows text when something needs your attention.
