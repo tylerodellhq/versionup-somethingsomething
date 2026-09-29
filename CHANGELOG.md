@@ -1,5 +1,38 @@
 # Something Something HQ: what's new
 
+## 2.3.0 — 29 Sep 2026
+**A fresh look.** The whole panel has been redesigned to be calmer, roomier and in line with the SS26 brand guidelines.
+
+**Job tab**
+- **Job and Brand sit in the header**, next to the logo, and the Clockify heading and divider are gone, so the Sequences list has more room.
+- **The Clockify timer** has a small CLOCKIFY label, the time, and the client and version underneath. **Stop** is now an outline button, so it doesn't compete with Version up.
+- **One bright button.** Only the sequence in your timeline gets the big magenta button, and it says what it does: **Version up to PR004**. Every other row has a small round arrow instead.
+- **The version number never gets cut off.** It sits in its own column on each row, and long names are shortened before it.
+- **New job?** The timer tells you to pick a client before Start works.
+- **Undo** is a proper button next to the message about what it undoes. It disappears as soon as the undo has worked, and HQ checks with Premiere first.
+- The sequence count moved up next to the Sequences heading.
+
+**+ Size now matches your sequence.** New sizes keep the short side of the sequence you're copying, so a 4K 9x16 (2160×3840) becomes 3840×2160 at 16x9, not 1920×1080. The tiles show the real sizes before you press Duplicate, and sizes you already have are greyed out.
+
+**New sequence**
+- **Remembers the sizes you picked last time.**
+- Bigger size tiles with a tick, frame rates in one row, and a clearer preview: the part from the project is dimmed and what you typed and the size stand out.
+- The button says what it makes, e.g. **Create 2 sequences**.
+
+**Brand tab**
+- Categories show how many graphics are in each.
+- Stars only show on favourites, the graphic you've picked, and on hover. They're bigger and easier to click.
+- The brand rule is one short line with an ⓘ, and Import sits next to the picked graphic's name.
+- Copy hex has a copy icon.
+
+**Settings**
+- No second title or ✕: close the window as normal and your name is saved.
+- **Open new versions in the timeline** is an on/off switch.
+- Clockify is laid out as rows, each with its own button. Disconnect is the only one in magenta.
+- About is one line at the bottom: version, update status and What's new.
+
+**Brand guidelines:** text in the panel is Carbon or Ivory only, and buttons use Carbon text on Magenta, Cyan and Buttercup. Warnings show an icon instead of coloured text.
+
 ## 2.2.1 — 29 Sep 2026
 - **+ New** always starts at 30 fps. The suggestion based on your footage is gone. You can still pick another frame rate.
 
