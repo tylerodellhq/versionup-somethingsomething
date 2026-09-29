@@ -1,5 +1,25 @@
 # Something Something HQ: what's new
 
+## 2.2.0 — 29 Sep 2026
+**Sizes.** The same edit in different aspect ratios now lives on one row.
+- Sequences that only differ by their size tag (e.g. `EG001_Example_9x16_PR003` and `EG001_Example_4x5_PR003`) show as one row with a tag for each size. Tap a tag to open that size.
+- Older sequences with no size in their name show their size too, worked out from the frame (the name isn't changed).
+- **+size** copies the sequence you're working on into other sizes (9x16, 4x5, 1x1, 16x9, 5x4), at the same version. Clips come across centred, so reframe after. If the original has no size in its name yet, HQ adds it from its frame size. No new Clockify entry.
+- **Version up** asks "All sizes" or "Just this one" when an edit has more than one size.
+
+**New sequence.** The "Version Up" heading is now **Sequences**, with a **+ New** button.
+- Names it after the project, with an optional extra name and the size: `EG001_Test_Project_Cutdown_9x16_PR001`. Odd characters are tidied into underscores.
+- Pick one or more sizes and a frame rate. It's 30 fps unless most of the footage in the project is at another rate, in which case HQ suggests that.
+- Goes straight into your Sequences bin.
+
+**Undo** is now a proper button at the bottom. It undoes your last version up, "+ size" or "+ New".
+
+**Tidier Sequences list.** The filter box hides behind a magnifier, the refresh button is gone (the list keeps itself up to date), and the "→ next name" line under each sequence is gone too.
+
+**Brand tab**
+- Every time you import, a reminder shows in red along the bottom: *Match the scale and thickness of your other scribbles. One colour on screen at a time. Don't stretch.*
+- If you place a scribble on screen at the same time as one in a different colour, the reminder starts with a heads up.
+
 ## 2.1.1 — 27 Sep 2026
 - **Fixed:** the selected colour on the Brand tab is outlined in Ivory again. Every outline is the same thickness.
 

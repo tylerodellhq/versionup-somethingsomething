@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Fix: the selected brand colour is outlined again."
+  "notes": "Sizes on one row, + size to duplicate into another aspect ratio, and + New for new sequences."
 }
