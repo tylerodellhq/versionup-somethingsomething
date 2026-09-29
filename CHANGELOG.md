@@ -1,5 +1,8 @@
 # Something Something HQ: what's new
 
+## 2.2.1 — 29 Sep 2026
+- **+ New** always starts at 30 fps. The suggestion based on your footage is gone. You can still pick another frame rate.
+
 ## 2.2.0 — 29 Sep 2026
 **Sizes.** The same edit in different aspect ratios now lives on one row.
 - Sequences that only differ by their size tag (e.g. `EG001_Example_9x16_PR003` and `EG001_Example_4x5_PR003`) show as one row with a tag for each size. Tap a tag to open that size.
@@ -9,7 +12,7 @@
 
 **New sequence.** The "Version Up" heading is now **Sequences**, with a **+ New** button.
 - Names it after the project, with an optional extra name and the size: `EG001_Test_Project_Cutdown_9x16_PR001`. Odd characters are tidied into underscores.
-- Pick one or more sizes and a frame rate. It's 30 fps unless most of the footage in the project is at another rate, in which case HQ suggests that.
+- Pick one or more sizes and a frame rate (30 fps unless you choose another).
 - Goes straight into your Sequences bin.
 
 **Undo** is now a proper button at the bottom. It undoes your last version up, "+ size" or "+ New".

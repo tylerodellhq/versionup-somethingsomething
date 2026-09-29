@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Sizes on one row, + size to duplicate into another aspect ratio, and + New for new sequences."
+  "notes": "+ New always starts at 30 fps."
 }
