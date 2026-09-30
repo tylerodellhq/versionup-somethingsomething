@@ -5,7 +5,7 @@ The Something Something team's Premiere Pro panel. It has two tabs:
 **Job**
 - **Clockify** times each edit against the right Clockify project and client. Every `_PR` version gets its own entry, so each round of amends shows up separately. The timer stops when you close the project or quit Premiere.
 - **Sequences** (Version Up) duplicates a sequence as the next version (`_PR002` → `_PR003`), moves the old one into the **0. Old** bin and records who made it. Undo is one click.
-- **Sizes:** the same edit in several aspect ratios (`_9x16`, `_4x5`, `_1x1`, `_16x9`, `_5x4` before `_PR###`) sits on one row. **+ Size** duplicates into another size, scaled from the sequence you're copying (a 2160×3840 edit becomes 3840×2160 at 16x9). **+ New** makes a new sequence named after the project, at the sizes and frame rate you pick, and remembers the sizes for next time.
+- **Sizes:** the same edit in several aspect ratios (`_9x16`, `_3x4`, `_4x5`, `_1x1`, `_16x9` before `_PR###`) sits on one row. **+ Size** duplicates into another size, scaled from the sequence you're copying (a 2160×3840 edit becomes 3840×2160 at 16x9). **+ New** makes a new sequence named after the project, at the sizes and frame rate you pick, and remembers the sizes for next time.
 
 **Brand**
 - All 928 Something Something graphics: scribbles, arrows, circles, lines, bars, frames, corners, bursts, symbols, letters, numbers and the logo.
@@ -13,7 +13,7 @@ The Something Something team's Premiere Pro panel. It has two tabs:
 - Search, category filters, ★ favourites and **Copy hex**.
 - **Import** (or double-click) saves the PNG in a *Brand assets* folder next to the project, adds it to a *Brand assets* bin and places it at the playhead.
 
-Current version: **2.3.0**. See the [changelog](CHANGELOG.md) for what's new.
+Current version: **2.3.1**. See the [changelog](CHANGELOG.md) for what's new.
 
 ## Install
 

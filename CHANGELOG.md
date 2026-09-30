@@ -1,5 +1,8 @@
 # Something Something HQ: what's new
 
+## 2.3.1 — 30 Sep 2026
+**3x4 replaces 5x4.** + Size and New sequence now offer 3x4 (1080×1440 on a 1080 sequence, 2160×2880 on 4K) instead of 5x4. It sits next to 9x16, so the portrait sizes run tallest first. Sequences already named `_5x4` still group on their row.
+
 ## 2.3.0 — 29 Sep 2026
 **A fresh look.** The whole panel has been redesigned to be calmer, roomier and in line with the SS26 brand guidelines.
 
