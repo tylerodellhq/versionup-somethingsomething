@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
+  "version": "2.4.0",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "3x4 replaces 5x4 in + Size and New sequence (1080×1440 on a 1080 sequence)."
+  "notes": "Version up all, sequences in sub-bins, clearer row feedback, and the timer asks before stopping."
 }
