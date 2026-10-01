@@ -1,5 +1,12 @@
 # Something Something HQ: what's new
 
+## 2.4.0 — 1 Oct 2026
+- **Version up all.** A new button under the Sequences list versions up every sequence at once. It asks first, and one Undo takes them all back.
+- **Sequences in sub-bins.** HQ now reads sequences in bins inside your Sequences bin, like `9x16` or `4x5`, and still groups each edit's sizes on one row. A new version stays in the same bin. + Size and New sequence put a size into a bin named after it if there is one.
+- **Clearer feedback on the small arrow.** When you version up a row that isn't open, it lights up and says what happened, e.g. "Versioned up to PR002 · PR001 moved to 0. Old".
+- **The timer asks before stopping.** Close the project and HQ asks whether to keep timing or stop at the time you closed it. Premiere doesn't let a panel stop it quitting, so after a quit HQ asks the next time you open it. If you've been away an hour or more, Stop is the main button.
+- **Safe margins on new sequences.** HQ now sizes a new sequence before opening it, so 9x16 and other portrait sizes no longer pick up landscape safe margins.
+
 ## 2.3.1 — 30 Sep 2026
 **3x4 replaces 5x4.** + Size and New sequence now offer 3x4 (1080×1440 on a 1080 sequence, 2160×2880 on 4K) instead of 5x4. It sits next to 9x16, so the portrait sizes run tallest first. Sequences already named `_5x4` still group on their row.
 
