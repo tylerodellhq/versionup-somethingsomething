@@ -1,5 +1,13 @@
 # Something Something HQ: what's new
 
+## 2.4.1 — 8 Oct 2026
+- **Version up all swaps your timelines over.** A new checkbox in the Version up all box, "Open the new versions in the timeline", opens every new version and closes the old ones. You end on the one you were in. It remembers your choice.
+- **Version up swaps every size.** When you version up All sizes, every size of that edit moves to the new version in your timeline, not just the one in front.
+- **+ Size opens the new sizes** in the timeline.
+- **Enter confirms pop-ups** like + Size, New sequence and Version up all. Escape cancels.
+- **Fixed a Premiere crash** when you made a New sequence in an empty project. HQ briefly opens a temporary sequence ("HQ setting up") while it sizes the new one, then deletes it, so safe margins are still right.
+- **Undo is safer.** It reopens the old versions before closing the new ones.
+
 ## 2.4.0 — 1 Oct 2026
 - **Version up all.** A new button under the Sequences list versions up every sequence at once. It asks first, and one Undo takes them all back.
 - **Sequences in sub-bins.** HQ now reads sequences in bins inside your Sequences bin, like `9x16` or `4x5`, and still groups each edit's sizes on one row. A new version stays in the same bin. + Size and New sequence put a size into a bin named after it if there is one.

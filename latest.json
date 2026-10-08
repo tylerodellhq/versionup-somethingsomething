@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Version up all, sequences in sub-bins, clearer row feedback, and the timer asks before stopping."
+  "notes": "Version up all can swap your timelines to the new versions, + Size opens new sizes, Enter confirms pop-ups, and a crash fix for New sequence in an empty project."
 }

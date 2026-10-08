@@ -13,7 +13,7 @@ The Something Something team's Premiere Pro panel. It has two tabs:
 - Search, category filters, ★ favourites and **Copy hex**.
 - **Import** (or double-click) saves the PNG in a *Brand assets* folder next to the project, adds it to a *Brand assets* bin and places it at the playhead.
 
-Current version: **2.4.0**. See the [changelog](CHANGELOG.md) for what's new.
+Current version: **2.4.1**. See the [changelog](CHANGELOG.md) for what's new.
 
 ## Install
 
