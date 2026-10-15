@@ -1,5 +1,22 @@
 # Something Something HQ: what's new
 
+## 3.0.0 — 16 Oct 2026
+**Meet Cutdown.** A new tab next to Job and Brand. Give it a video and the moments you want, and you get sized edits back.
+- **Clip from YouTube, or any video you have.** Paste a link, choose a file, or pick a video already in the project.
+- **Paste the whole brief.** HQ finds every timecode in it (0:38 - 1:16, "1:30ish to 2:05") and a link in the brief counts too.
+- **Several sizes at once.** Each moment becomes its own sequence in every size you pick, or put all the moments back to back in one.
+- **Only download the moments.** For long videos, HQ downloads just the parts you need, with a second either side.
+- **Quality** offers only the sizes the video actually comes in: 1080p, 1440p or 4K.
+- **Lands where it should.** Downloads save into the job's Rushes folder (or FOOTAGE, or a new Rushes folder) and the matching bin. 4K is converted to H.264 first and only the converted copy is kept, so folder watchers never see a file Premiere can't open.
+- **House names.** Sequences are named after the project, like `EG001_Example_Cutdown_01_9x16_PR001`, numbered on from the Cutdowns already there.
+- The first time you download from a link, HQ turns downloads on for your Mac. Link downloads are Mac only.
+- **What's new** pops up once after a feature update. Find it again under Settings › What's new.
+
+Cutdown started life as Jordan's Brief Cutter. Thanks, Jordan!
+
+**Fixes**
+- **Copy hex** on the Brand tab copies just the digits (`FF216E`), without the #.
+
 ## 2.4.1 — 8 Oct 2026
 - **Version up all swaps your timelines over.** A new checkbox in the Version up all box, "Open the new versions in the timeline", opens every new version and closes the old ones. You end on the one you were in. It remembers your choice.
 - **Version up swaps every size.** When you version up All sizes, every size of that edit moves to the new version in your timeline, not just the one in front.

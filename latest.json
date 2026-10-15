@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
+  "version": "3.0.0",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Version up all can swap your timelines to the new versions, + Size opens new sizes, Enter confirms pop-ups, and a crash fix for New sequence in an empty project."
+  "notes": "Meet Cutdown: paste a brief and a video link, and HQ cuts every moment into the sizes you pick. Copy hex now copies just the digits."
 }

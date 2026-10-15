@@ -1,6 +1,6 @@
 # Something Something HQ
 
-The Something Something team's Premiere Pro panel. It has two tabs:
+The Something Something team's Premiere Pro panel. It has three tabs:
 
 **Job**
 - **Clockify** times each edit against the right Clockify project and client. Every `_PR` version gets its own entry, so each round of amends shows up separately. Close the project and HQ asks whether to keep timing or stop. Quit Premiere and it asks next time you open it.
@@ -10,10 +10,15 @@ The Something Something team's Premiere Pro panel. It has two tabs:
 **Brand**
 - All 928 Something Something graphics: scribbles, arrows, circles, lines, bars, frames, corners, bursts, symbols, letters, numbers and the logo.
 - Every graphic is available in each brand colour: Carbon, Ivory, Magenta, Cyan or Buttercup. The logo comes in Carbon and Ivory only.
-- Search, category filters, ★ favourites and **Copy hex**.
+- Search, category filters, ★ favourites and **Copy hex** (copies the digits, e.g. `FF216E`).
 - **Import** (or double-click) saves the PNG in a *Brand assets* folder next to the project, adds it to a *Brand assets* bin and places it at the playhead.
 
-Current version: **2.4.1**. See the [changelog](CHANGELOG.md) for what's new.
+**Cutdown**
+- Paste a YouTube link (or choose a video you have, or one already in the project) and a brief. HQ finds the timecodes in the brief and cuts each moment into every size you pick, named like `EG001_Example_Cutdown_01_9x16_PR001`.
+- **Only download the moments** grabs just those parts of a long video. **Quality** offers only the sizes the video comes in (1080p, 1440p, 4K).
+- Downloads go into the job's Rushes (or FOOTAGE) folder and the matching bin. 4K is converted to H.264 so Premiere edits it smoothly. Link downloads work on Macs.
+
+Current version: **3.0.0**. See the [changelog](CHANGELOG.md) for what's new.
 
 ## Install
 
