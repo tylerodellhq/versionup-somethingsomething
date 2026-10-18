@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Meet Cutdown: paste a brief and a video link, and HQ cuts every moment into the sizes you pick. Copy hex now copies just the digits."
+  "notes": "Cutdown fixes: briefs written like 7:44–8:21: are read properly, moments download with live progress and no time-out on long 4K parts, 3 seconds of handle either side, and links with no times just download the videos."
 }

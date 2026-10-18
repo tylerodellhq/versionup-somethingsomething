@@ -1,5 +1,15 @@
 # Something Something HQ: what's new
 
+## 3.0.1 — 18 Oct 2026
+Cutdown fixes and extras.
+- **Just download the videos.** Paste links with no times and HQ downloads each video in full into Rushes (or FOOTAGE), with no sequences. The button says "Download N videos".
+- **Reads more briefs.** Times written like `7:44–8:21:` (a colon after the end time), any kind of dash, and text pasted from Sheets or Docs with odd spaces are all picked up.
+- **Only download the moments is quicker and shows progress.** Each moment is made straight into H.264 on your Mac's video hardware as it downloads, with a real percentage. Long 4K moments no longer stop with "The download stopped responding".
+- **3 seconds of handle** either side of each downloaded moment. The timeline still starts and ends on the brief's exact times, so drag the clip out if you need more.
+- **Converting shows a percentage** on long videos.
+- **No double imports with Watchtower.** HQ waits for a folder watcher to bring the video in, and tidies any duplicate.
+- Downloads queue up behind one that's still converting, instead of restarting it.
+
 ## 3.0.0 — 16 Oct 2026
 **Meet Cutdown.** A new tab next to Job and Brand. Give it a video and the moments you want, and you get sized edits back.
 - **Clip from YouTube, or any video you have.** Paste a link, choose a file, or pick a video already in the project.
