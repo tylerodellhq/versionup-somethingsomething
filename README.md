@@ -18,7 +18,7 @@ The Something Something team's Premiere Pro panel. It has three tabs:
 - **Only download the moments** grabs just those parts of a long video. **Quality** offers only the sizes the video comes in (1080p, 1440p, 4K).
 - Downloads go into the job's Rushes (or FOOTAGE) folder and the matching bin. 4K is converted to H.264 so Premiere edits it smoothly. Link downloads work on Macs.
 
-Current version: **3.0.1**. See the [changelog](CHANGELOG.md) for what's new.
+Current version: **3.0.2**. See the [changelog](CHANGELOG.md) for what's new.
 
 ## Install
 
