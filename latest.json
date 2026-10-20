@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Cutdown fixes: briefs written like 7:44–8:21: are read properly, moments download with live progress and no time-out on long 4K parts, 3 seconds of handle either side, and links with no times just download the videos."
+  "notes": "Cutdown fixes: All moments in one sequence now puts every moment on the one sequence, and downloads save properly to external and network drives."
 }

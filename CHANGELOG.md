@@ -1,5 +1,9 @@
 # Something Something HQ: what's new
 
+## 3.0.2 — 20 Oct 2026
+- **All moments in one sequence works.** Every moment now goes back to back on the one sequence. Before, only the first moment made it in and Cutdown said "Invalid parameter".
+- **Downloads save to external and network drives.** When macOS stops the downloader writing to a job on another drive, HQ copies the finished video into Rushes itself, instead of "Downloaded, but couldn't save the video".
+
 ## 3.0.1 — 18 Oct 2026
 Cutdown fixes and extras.
 - **Just download the videos.** Paste links with no times and HQ downloads each video in full into Rushes (or FOOTAGE), with no sequences. The button says "Download N videos".
