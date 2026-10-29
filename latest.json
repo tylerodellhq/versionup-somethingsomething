@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "url": "https://raw.githubusercontent.com/tylerodellhq/versionup-somethingsomething/main/SomethingSomethingHQ.ccx",
-  "notes": "Cutdown fixes: All moments in one sequence now puts every moment on the one sequence, and downloads save properly to external and network drives."
+  "notes": "Bug fixes and speed improvements."
 }
