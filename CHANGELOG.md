@@ -1,5 +1,22 @@
 # Something Something HQ: what's new
 
+## 3.1.0 — 24 Nov 2026
+**Export from HQ.** A new **Export** button at the bottom of the Job tab.
+- **Every size in one go.** The edit in your timeline opens ticked, with all its sizes. Tap a size to leave it out, or **Show all** to export other edits too. Premiere exports them one after another, no Media Encoder needed.
+- **Lands in Renders.** Exports save into the job's `03_Renders/PREMIERE` folder (made if missing), named after the sequence. **Change** picks another folder, remembered per project.
+- **Old versions move themselves.** Export PR002 and the PR001 exports move into **0. Old**. Untick it to leave them be.
+- **Captions on or off.** When an edit has a caption track, **Burn in captions** chooses whether they go in.
+- **Full sequence or In to Out.**
+- **Set up for TikTok and Instagram.** H.264 at each sequence's own size and frame rate, 18 Mbps (22 max), AAC 320 kbps.
+
+**Audio only in Cutdown.** Download just the sound of a link as a WAV, into the job's Audio folder, sorted into Music or SFX.
+
+**Settings** shows your Premiere version and has a **Clear media cache** button.
+
+**Fixes**
+- **Instagram Reels** only offer 720p and 1080p. Before, they offered 1440p and 4K, which Instagram doesn't have.
+- **What's new** is back, with a short card for this release. Find it again under Settings › What's new.
+
 ## 3.0.3 — 29 Oct 2026
 - Bug fixes and speed improvements.
 
